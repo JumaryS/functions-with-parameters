@@ -12,10 +12,11 @@ function modYBy(goesInTo){
 }
 
 function opposite(param){
-z= -param
+z= -param   
+// z= z -z -3
 }
 
-function fullName(param1){
+function makeFullName(param1){
   name = name + " "+  param1
 }
 
