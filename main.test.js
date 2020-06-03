@@ -1,8 +1,24 @@
-/*
+let x= 3
+let y = 10
+let z= 5
+let name = 'Jumary'
+let greeting= 'HEY'
 
-Your code goes below.
+function multiply( times){
+x= x* times
+}
+function modYBy(goesInTo){
+  y= y%  goesInTo
+}
 
-*/
+function opposite(param){
+z= -param
+}
+
+function fullName(param1){
+  name = name + " "+  param1
+}
+
 
 
 
